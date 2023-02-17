@@ -70,6 +70,6 @@
   </tr>
   <tr>
     <td>Supplemental Requirements</td>
-    <td>None</td>
+    <td>Based on time-of-arrival, communication-loss, and risk-factor simularions</td>
   </tr>
 <table>
