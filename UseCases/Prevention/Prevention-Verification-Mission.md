@@ -70,6 +70,6 @@
   </tr>
   <tr>
     <td>Supplemental Requirements</td>
-    <td>None</td>
+    <td>This is to verufy general things, like the existence of new equipment, new structural assets, damage, etc.</td>
   </tr>
 <table>
