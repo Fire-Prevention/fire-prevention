@@ -70,6 +70,6 @@
   </tr>
   <tr>
     <td>Supplemental Requirements</td>
-    <td>Based on time-of-arrival, communication-loss, and risk-factor simularions</td>
+    <td>Based on time-of-arrival, communication-loss, and risk-factor simularions. Make sure to mention that it takes input from the Calculate Risk levels use case.</td>
   </tr>
 <table>
