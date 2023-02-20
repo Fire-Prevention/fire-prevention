@@ -70,6 +70,6 @@
   </tr>
   <tr>
     <td>Supplemental Requirements</td>
-    <td>None</td>
+    <td>For now store results is part of this use case. This might go into the shared folder too.</td>
   </tr>
 <table>
