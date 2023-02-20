@@ -24,10 +24,10 @@
     <td> Pre-Conditions </td>
     <td>
       <ul>
-          <li>User must be at Equipment's Screen</li>
-          <li>Equipment must be functional</li>
-          <li>Equipment must be connected to the Network</li>
-          <li>System must be connect to the Network</li>
+          <li>User is at Equipment's Screen</li>
+          <li>Equipment is functional</li>
+          <li>Equipment is connected to the Network</li>
+          <li>System is connected to the Network</li>
       </ul>
     </td>
   </tr>
