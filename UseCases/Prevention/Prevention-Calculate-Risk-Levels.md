@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th> Prevention Calculate Risk Levels Use Case </th>
+    <th> Title </th>
     <th> Description </th>
   </tr>
   <tr>
