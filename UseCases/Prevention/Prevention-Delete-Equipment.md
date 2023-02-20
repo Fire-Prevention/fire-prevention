@@ -8,16 +8,15 @@
   <tr>
     <td> Brief Description </td>
     <td>
-      Use case of
+      Use case of user deleting equipment listed in the list of equipments. It starts with the user selecting an equipment from the list to delete and ends when the equipment no longer appears in the list.
     </td>
   </tr>
   <tr>
     <td> Actors </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>User</li>
+          <li>System</li>
       </ul>
     </td>
   </tr>
@@ -25,10 +24,8 @@
     <td> Pre-Conditions </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>One or more equipment are connected to the system</li>
+          <li>Equipment appears in the list of equipments</li>
       </ul>
     </td>
   </tr>
@@ -36,36 +33,25 @@
     <td> Basic Flow </td>
     <td>
       <ol>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>User clicks the "Delete" button next to the equipment they want to delete</li>
+          <li>System display a prompt "Are you sure?"</li>
+          <li>User clicks "Yes"</li>
+          <li>Equipment is deleted and removed from the list</li>
       </ol>
     </td>
   </tr>
   <tr>
     <td> Alternate/Exception Flows </td>
     <td>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
+      3b. <ol type="I">
+        <li>User clicks "No"</li>
+        <li>End case</li>
       </ol>
     </td>
   <tr>
     <td> Post Conditions </td>
     <td>
-        None
+        The equipment no longer appears in the list of equipment available in the system.
     <td>
   </tr>
   <tr>
