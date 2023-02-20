@@ -70,6 +70,6 @@
   </tr>
   <tr>
     <td>Supplemental Requirements</td>
-    <td>None</td>
+    <td>Every new iteration of Dashboard (starting from Prevention will be same as previous plus some features (Rarely minus) so I wont copy all the use cases. I will mention in the Dashboard use case that the button leads to the use case from previous stage. Even better, in the end I will separate the common use cases into a common folder.</td>
   </tr>
 <table>
