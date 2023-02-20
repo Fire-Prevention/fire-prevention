@@ -8,16 +8,15 @@
   <tr>
     <td> Brief Description </td>
     <td>
-      Use case of
+      Use case of the user pulling up the list of equipment with the intention of adding, deleting or updating information on them. It starts when the user clicks "Equipment" in the Dashboard and ends when the user navigates out of the Management Screen.
     </td>
   </tr>
   <tr>
     <td> Actors </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>User</li>
+          <li>System</li>
       </ul>
     </td>
   </tr>
@@ -25,10 +24,6 @@
     <td> Pre-Conditions </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
       </ul>
     </td>
   </tr>
@@ -36,31 +31,16 @@
     <td> Basic Flow </td>
     <td>
       <ol>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>User clicks on "Equipment" in the Dashboard</li>
+          <li>A list of equipment is displayed</li>
+          <li>User can delete or edit each equipment by relevant buttons next to each of the equipment</li>
+          <li>User can add new equipment using the "Add" button</li>
       </ol>
     </td>
   </tr>
   <tr>
     <td> Alternate/Exception Flows </td>
     <td>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-      </ol>
     </td>
   <tr>
     <td> Post Conditions </td>
