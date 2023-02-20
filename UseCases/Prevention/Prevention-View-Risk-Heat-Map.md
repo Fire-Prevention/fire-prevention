@@ -1,4 +1,4 @@
-# Prevention View Heat Risk Map
+# Prevention View Risk Heat Map
 
 <table>
   <tr>
