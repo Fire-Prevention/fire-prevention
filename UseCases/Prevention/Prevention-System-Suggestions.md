@@ -8,16 +8,15 @@
   <tr>
     <td> Brief Description </td>
     <td>
-      Use case of
+      Use case of system sending suggestions to the user to reduce the risk of a fire. It starts when the system detects an improvement available and ends when the user checks it off as done.
     </td>
   </tr>
   <tr>
     <td> Actors </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>User</li>
+          <li>System</li>
       </ul>
     </td>
   </tr>
@@ -25,10 +24,10 @@
     <td> Pre-Conditions </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>The simulation has run at least once</li>
+          <li>The risk score has been calculated</li>
+          <li>The system has identified an action that can be taken to reduce the risk score</li>
+          <li>The user is at Dashboard</li>
       </ul>
     </td>
   </tr>
@@ -36,31 +35,17 @@
     <td> Basic Flow </td>
     <td>
       <ol>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>System sends a notification to the user with the action to take, and the precentage of risk it will reduce</li>
+          <li>The notification is displayed as a pending task</li>
+          <li>The user takes appropriate action</li>
+          <li>The user marks the task as done</li>
+          <li>Continue at Update Risk Score use case</li>
       </ol>
     </td>
   </tr>
   <tr>
     <td> Alternate/Exception Flows </td>
     <td>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-      </ol>
     </td>
   <tr>
     <td> Post Conditions </td>
