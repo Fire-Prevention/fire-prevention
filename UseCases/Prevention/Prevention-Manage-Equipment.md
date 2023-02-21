@@ -24,6 +24,7 @@
     <td> Pre-Conditions </td>
     <td>
       <ul>
+        <li>User is at Equipment's Screen</li>
       </ul>
     </td>
   </tr>
