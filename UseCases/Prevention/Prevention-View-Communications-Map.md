@@ -45,7 +45,7 @@
   <tr>
     <td> Post Conditions </td>
     <td>
-        None
+        The Communications map is displayed.
     <td>
   </tr>
   <tr>
