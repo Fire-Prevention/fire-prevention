@@ -36,6 +36,7 @@
           <li>A prompt is displayed for more details</li>
           <li>User sets time and place of the mission</li>
           <li>User sets equipment and/or people to go on the mission</li>
+          <li>User sets type of mission</li>
           <li>User clicks "Save"</li>
           <li>The mission is added to the schedule</li>
       </ol>
