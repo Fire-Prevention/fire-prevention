@@ -8,16 +8,15 @@
   <tr>
     <td> Brief Description </td>
     <td>
-      Use case of
+      Use case of user viewing the biodiversity map. It starts when the user selects the Biodiversity map view and ends when the map is displayed.
     </td>
   </tr>
   <tr>
     <td> Actors </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>User</li>
+          <li>System</li>
       </ul>
     </td>
   </tr>
@@ -25,10 +24,8 @@
     <td> Pre-Conditions </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>User is at View Map Screen</li>
+          <li>The biodiversity data is available</li>
       </ul>
     </td>
   </tr>
@@ -36,31 +33,14 @@
     <td> Basic Flow </td>
     <td>
       <ol>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>User clicks on the Biodiversity Map View</li>
+          <li>The map of the area's biodiversity is displayed, marking the type, density, and state of the area's flora</li>
       </ol>
     </td>
   </tr>
   <tr>
     <td> Alternate/Exception Flows </td>
     <td>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-      </ol>
     </td>
   <tr>
     <td> Post Conditions </td>
