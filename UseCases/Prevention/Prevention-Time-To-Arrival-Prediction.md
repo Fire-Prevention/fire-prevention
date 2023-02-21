@@ -8,16 +8,14 @@
   <tr>
     <td> Brief Description </td>
     <td>
-      Use case of
+      Use case of the system simulating the arrival of the personnel to the fire. It starts when a simulated ignition has occured and ends when the Estimated Time of Arrival has been calculated and stored.
     </td>
   </tr>
   <tr>
     <td> Actors </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>System</li>
       </ul>
     </td>
   </tr>
@@ -25,10 +23,8 @@
     <td> Pre-Conditions </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>A simulation is running</li>
+          <li>The location of each personnel/fire station/fire truck is known to the system and is up to date</li>
       </ul>
     </td>
   </tr>
@@ -36,36 +32,20 @@
     <td> Basic Flow </td>
     <td>
       <ol>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>An ignition occurs in the simulation</li>
+          <li>The system simulates the time needed for personnel to arrive to the location of the ignition</li>
+          <li>The ETAs are stored for each point of interest (personnel/fire station/fire truck)</li>
       </ol>
     </td>
   </tr>
   <tr>
     <td> Alternate/Exception Flows </td>
     <td>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-      </ol>
     </td>
   <tr>
     <td> Post Conditions </td>
     <td>
-        None
+        The ETAs are stored and can be displayed to the user if needed.
     <td>
   </tr>
   <tr>
