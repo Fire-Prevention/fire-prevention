@@ -8,16 +8,15 @@
   <tr>
     <td> Brief Description </td>
     <td>
-      Use case of
+      Use case of user navigating to the Map View. It starts when the user click "View Map" and ends when the map is displayed and they can select filters and different Views.
     </td>
   </tr>
   <tr>
     <td> Actors </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>User</li>
+          <li>System</li>         
       </ul>
     </td>
   </tr>
@@ -25,9 +24,7 @@
     <td> Pre-Conditions </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>The user is at Dashboard</li>
           <li></li>
       </ul>
     </td>
@@ -36,31 +33,14 @@
     <td> Basic Flow </td>
     <td>
       <ol>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>User clicks "View Map"</li>
+          <li>The Map View is displayed with different filters to toggle (see Toggle Filters use case) and different Map Views</li>
       </ol>
     </td>
   </tr>
   <tr>
     <td> Alternate/Exception Flows </td>
     <td>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-      </ol>
     </td>
   <tr>
     <td> Post Conditions </td>
