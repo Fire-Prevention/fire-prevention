@@ -34,6 +34,7 @@
       <ol>
           <li>During the mission the personnel and/or equipment (eg. drone) collect an array of real time data (temperature, image, etc.)</li>
           <li>The data is sent to the database to be stored and used by the platforms features</li>
+          <li>Mission ends</li>
       </ol>
     </td>
   </tr>
