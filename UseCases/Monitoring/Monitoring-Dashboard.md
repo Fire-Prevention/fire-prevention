@@ -35,9 +35,10 @@
           <li>User is redirected to the Monitoring Dashboard</li>
           <li>User can click on "Configuration" and access the Configuration Use Case</li>
           <li>User can view live feed from any static or deployed equipment available</li>
-          <li>User is prompted to start Data Collection Missions (see Data Collection Mission use case)</li>
           <li>Simulation to predict propagation starts automatically once enough data are available (see Propagation Prediction use case)</li>
           <li>User can click to view the Map Views for different Views of the burning area</li>
+          <li>User can navigate to Missions Screen to start different missions</li>
+          <li>User is prompted to start Data Collection Missions (see Data Collection Mission use case)</li>
       </ol>
     </td>
   </tr>
