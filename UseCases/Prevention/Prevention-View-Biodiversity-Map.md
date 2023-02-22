@@ -45,7 +45,7 @@
   <tr>
     <td> Post Conditions </td>
     <td>
-         The Communications map is displayed.
+         The Biodiversity map is displayed.
     <td>
   </tr>
   <tr>
