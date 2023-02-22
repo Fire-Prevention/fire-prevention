@@ -37,7 +37,6 @@
           <li>The System creates a filter (overlay) to the map view with icons that correspond to cell phones</li>
           <li>The System creates a Map View (heatmap) to display areas with big civillian concentration</li>
           <li>The System displays the filter by default</li>
-          <li></li>
       </ol>
     </td>
   </tr>
