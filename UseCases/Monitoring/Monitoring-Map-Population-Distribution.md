@@ -8,16 +8,15 @@
   <tr>
     <td> Brief Description </td>
     <td>
-      Use case of
+      Use case of the system using the data from the cell phone detection mission to create a map of the distribution of civilians in the affected area. It starts when the data becomes available to the system and ends when the map is displayed.
     </td>
   </tr>
   <tr>
     <td> Actors </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>System</li>
+          <li>User</li>
       </ul>
     </td>
   </tr>
@@ -25,10 +24,8 @@
     <td> Pre-Conditions </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>The data from the cell phone detection is available to the system</li>
+          <li>The user is at View Map Screen</li>
       </ul>
     </td>
   </tr>
@@ -36,9 +33,10 @@
     <td> Basic Flow </td>
     <td>
       <ol>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>The System receives the coordinates</li>
+          <li>The System creates a filter (overlay) to the map view with icons that correspond to cell phones</li>
+          <li>The System creates a Map View (heatmap) to display areas with big civillian concentration</li>
+          <li>The System displays the filter by default</li>
           <li></li>
       </ol>
     </td>
@@ -46,26 +44,11 @@
   <tr>
     <td> Alternate/Exception Flows </td>
     <td>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-      </ol>
     </td>
   <tr>
     <td> Post Conditions </td>
     <td>
-        None
+        The user is able to have an estimated view of where the most civilians are located.
     <td>
   </tr>
   <tr>
