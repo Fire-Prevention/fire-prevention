@@ -50,6 +50,6 @@
   </tr>
   <tr>
     <td>Supplemental Requirements</td>
-    <td>None</td>
+    <td>From this screen the user can select many different overlays (filters) or other Views altogether (can be combined with filters)</td>
   </tr>
 <table>
