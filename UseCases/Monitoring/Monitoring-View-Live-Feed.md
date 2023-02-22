@@ -8,16 +8,16 @@
   <tr>
     <td> Brief Description </td>
     <td>
-      Use case of
+      Use case of user viewing the live feed from the available equipment on the field. It starts when user click "Live Feed" and ends when the video is displayed.
     </td>
   </tr>
   <tr>
     <td> Actors </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>User</li>
+          <li>System</li>
+          <li>Equipment</li>
       </ul>
     </td>
   </tr>
@@ -25,10 +25,8 @@
     <td> Pre-Conditions </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>The equipment is available, connected, and functional at the time it's requested</li>
+          <li>User is at Dashboard</li>
       </ul>
     </td>
   </tr>
@@ -36,31 +34,15 @@
     <td> Basic Flow </td>
     <td>
       <ol>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>User clicks "Live Feed"</li>
+          <li>User is redirected to a screen with the feedback from all available equipment (static and mobile cameras)</li>
+          <li>User can click at one live feed to zoom in</li>
       </ol>
     </td>
   </tr>
   <tr>
     <td> Alternate/Exception Flows </td>
     <td>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-      </ol>
     </td>
   <tr>
     <td> Post Conditions </td>
