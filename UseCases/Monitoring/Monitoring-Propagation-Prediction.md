@@ -8,16 +8,14 @@
   <tr>
     <td> Brief Description </td>
     <td>
-      Use case of
+      Use case of the simulation that predicts the propagation of the fire. It starts when the ignition is verified as true and ends when the results are produced. It repeats until there is verification that the fire is extinguished.
     </td>
   </tr>
   <tr>
     <td> Actors </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>System</li>
       </ul>
     </td>
   </tr>
@@ -25,10 +23,7 @@
     <td> Pre-Conditions </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>System has the appropriate data to feed the simulation</li>
       </ul>
     </td>
   </tr>
@@ -36,30 +31,20 @@
     <td> Basic Flow </td>
     <td>
       <ol>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>Parameters are automatically set by the ignition alert</li>
+          <li>Simulation runs</li>
+          <li>Results are produced</li>
+          <li>An image of the most probable propagation is produced and displayed</li>
+          <li>The system sends the appropriate alerts through the ad hoc network</li>
       </ol>
     </td>
   </tr>
   <tr>
     <td> Alternate/Exception Flows </td>
     <td>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
+        3b. <ol type="I">
+        <li>Propagation near antenna</li>
+        <li>Continue to Communication Loss Predction Use Case</li>
       </ol>
     </td>
   <tr>
