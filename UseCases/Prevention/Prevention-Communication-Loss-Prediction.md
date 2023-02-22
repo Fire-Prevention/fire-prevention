@@ -24,7 +24,7 @@
     <td>
       <ul>
           <li>A simulation is already running</li>
-          <li>The infrastructure of communications in the are is known to the system</li>
+          <li>The infrastructure of communications in the area is known to the system</li>
       </ul>
     </td>
   </tr>
