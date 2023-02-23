@@ -35,6 +35,7 @@
           <li>User opens the software</li>
           <li>User can click on "Configuration" and access the Configuration Use Case</li>
           <li>User can view upcoming Missions</li>
+          <li>User can view live feed from any static or deployed equipment available</li>
           <li>User can view System Suggestions to improve risk scores</li>
           <li>User can click to run Simulations</li>
           <li>User can click on "Equipment" to access the Manage Equipment Screen</li>
