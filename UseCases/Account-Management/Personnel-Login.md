@@ -16,6 +16,7 @@
     <td>
       <ul>
           <li>System</li>
+          <li>Personnel</li>
       </ul>
     </td>
   </tr>
