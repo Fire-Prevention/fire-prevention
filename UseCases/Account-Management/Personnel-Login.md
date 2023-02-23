@@ -36,8 +36,8 @@
           <li>The system displays the login form, which includes fields for entering the user's email and password</li>
           <li>The user enters their login and password in the respective fields</li>
           <li>The user clicks on the "Login" button</li>
-          <li>The system validates the email and password entered by the user.</li>
-          <li>If the login and password are correct, the system redirects the user to their dashboard or the main page of the system.</li>
+          <li>The system validates the email and password entered by the user</li>
+          <li>If the login and password are correct, the system redirects the user to their dashboard or the main page of the system</li>
       </ol>
     </td>
   </tr>
@@ -45,7 +45,7 @@
     <td> Alternate/Exception Flows </td>
     <td>
        5b. <ol type="I">
-        <li> If the system detects that the user has entered an incorrect login or password, it displays an error message indicating that the email or password is incorrect.</li>
+        <li> If the system detects that the user has entered an incorrect login or password, it displays an error message indicating that the email or password is incorrect</li>
         <li>Continue at step 3</li>
       </ol>
     </td>
