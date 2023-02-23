@@ -47,7 +47,6 @@
         <li>The ignition is not detected</li>
         <li>The false alarm is logged to the system</li>
         <li>Continue at step 5</li>
-        <li></li>
       </ol>
     </td>
   <tr>
