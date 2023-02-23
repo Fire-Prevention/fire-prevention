@@ -1,3 +1,5 @@
+# Personnel Login Use Case
+
 <table>
   <tr>
     <th> Title </th>
@@ -6,7 +8,7 @@
   <tr>
     <td> Brief Description </td>
     <td>
-      This use case allows a registered user to log in to the system and access their account. It starts when the system  detects propagation near an antenna (of the known infrastructure) and ends when the result is stored.
+      This use case allows a registered user to log in to the system and access their account. It starts when the user navigates to the login page and ends when the user is successfully logged in the system.
     </td>
   </tr>
   <tr>
