@@ -23,7 +23,7 @@
     <td> Pre-Conditions </td>
     <td>
       <ul>
-          <li>The Fire Propagation Simulation model has run at least once</li>
+          <li>The Fire Propagation Simulation model is running</li>
           <li>The input data is enough to consider the output reliable</li>
       </ul>
     </td>
@@ -52,6 +52,6 @@
   </tr>
   <tr>
     <td>Supplemental Requirements</td>
-    <td>For now store results is part of this use case. This might go into the shared folder too.</td>
+    <td>For now store results is part of this use case. This might go into the shared folder too. This use case repeats as many times as the simulation</td>
   </tr>
 <table>
