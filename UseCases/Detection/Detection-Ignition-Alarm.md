@@ -8,16 +8,17 @@
   <tr>
     <td> Brief Description </td>
     <td>
-      Use case of
+      Use case of an incoming ignition alarm from civilian reporting or Equipment (drone or static camera). It starts when the report is made and ends when the user receives notification to start a Verify Ignition mission.
     </td>
   </tr>
   <tr>
     <td> Actors </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>User</li>
+          <li>Equipment</li>
+          <li>Civilians</li>
+          <li>System</li>
       </ul>
     </td>
   </tr>
@@ -25,7 +26,7 @@
     <td> Pre-Conditions </td>
     <td>
       <ul>
-          <li></li>
+          <li>There is a channel assigned for civilian reporting</li>
           <li></li>
           <li></li>
           <li></li>
@@ -36,36 +37,21 @@
     <td> Basic Flow </td>
     <td>
       <ol>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>A report is sent to the system through civilian reporting or from the available Equipment (static camera or drone)</li>
+          <li>The user is prompted to start a mission to verify the ignition</li>
+          <li>Equipment is suggested based on proximity</li>
+          <li>Continue to Verify Ignition Mission use case</li>
       </ol>
     </td>
   </tr>
   <tr>
     <td> Alternate/Exception Flows </td>
     <td>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-      </ol>
     </td>
   <tr>
     <td> Post Conditions </td>
     <td>
-        None
+         None
     <td>
   </tr>
   <tr>
