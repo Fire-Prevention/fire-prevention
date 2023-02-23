@@ -50,6 +50,6 @@
   </tr>
   <tr>
     <td>Supplemental Requirements</td>
-    <td>None</td>
+    <td>This could be an overlay instead of a map view</td>
   </tr>
 <table>
