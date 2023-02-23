@@ -1,4 +1,4 @@
-# Detection Verify Ignition Mission
+# Detection Ignition Verification Mission
 
 <table>
   <tr>
