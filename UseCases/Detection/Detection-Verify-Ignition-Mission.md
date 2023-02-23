@@ -35,7 +35,7 @@
           <li>During the mission the personnel and/or equipment (eg. drone) checks an area to verify the ignition</li>
           <li>The ignition is detected</li>
           <li>An ignition alert is sent out</li>
-          <li>The system switches to Fighting conditions</li>
+          <li>The system switches to Monitoring and Fighting conditions</li>
           <li>Mission ends</li>
       </ol>
     </td>
