@@ -8,16 +8,15 @@
   <tr>
     <td> Brief Description </td>
     <td>
-      Use case of
+      Use case of user viewing the crew map. It starts when the user selects the Crew map view and ends when the map is displayed.
     </td>
   </tr>
   <tr>
     <td> Actors </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>User</li>
+          <li>System</li>
       </ul>
     </td>
   </tr>
@@ -25,10 +24,8 @@
     <td> Pre-Conditions </td>
     <td>
       <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>User is at View Map Screen</li>
+          <li>The appropriate data is available</li>
       </ul>
     </td>
   </tr>
@@ -36,40 +33,23 @@
     <td> Basic Flow </td>
     <td>
       <ol>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>User clicks on the Crew Map View</li>
+          <li>A map of the area is displayed, showing the location of all fire trucks and firefighters in the area, as well as equipment. The Map also displays the location of the reported fire.</li>
       </ol>
     </td>
   </tr>
   <tr>
     <td> Alternate/Exception Flows </td>
     <td>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ol>
-      ??. <ol type="I">
-        <li></li>
-        <li></li>
-      </ol>
     </td>
   <tr>
     <td> Post Conditions </td>
     <td>
-        None
+         The crew map is displayed.
     <td>
   </tr>
   <tr>
     <td>Supplemental Requirements</td>
-    <td>Mapping of all firefighters and other units in the area of interest</td>
+    <td>None</td>
   </tr>
 <table>
