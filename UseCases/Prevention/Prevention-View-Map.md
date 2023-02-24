@@ -25,7 +25,6 @@
     <td>
       <ul>
           <li>The user is at Dashboard</li>
-          <li></li>
       </ul>
     </td>
   </tr>
