@@ -1,4 +1,4 @@
-# Send Ignition Alert
+# Detection Send Ignition Alert
 
 <table>
   <tr>
