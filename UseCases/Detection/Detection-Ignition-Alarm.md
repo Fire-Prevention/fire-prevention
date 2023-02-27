@@ -1,4 +1,4 @@
-# Ignition Alarm
+# Detection Ignition Alarm
 
 <table>
   <tr>
@@ -27,9 +27,6 @@
     <td>
       <ul>
           <li>There is a channel assigned for civilian reporting</li>
-          <li></li>
-          <li></li>
-          <li></li>
       </ul>
     </td>
   </tr>
